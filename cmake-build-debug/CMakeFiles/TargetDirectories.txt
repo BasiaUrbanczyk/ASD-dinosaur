@@ -1,0 +1,3 @@
+/Users/basiau/CLionProjects/dinozaurPlz/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/basiau/CLionProjects/dinozaurPlz/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/basiau/CLionProjects/dinozaurPlz/cmake-build-debug/CMakeFiles/dinozaurPlz.dir

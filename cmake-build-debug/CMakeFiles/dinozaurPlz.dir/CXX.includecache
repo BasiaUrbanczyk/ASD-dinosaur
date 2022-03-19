@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/basiau/CLionProjects/dinozaurPlz/main.cpp
+iostream
+-
+cstdio
+-
+array
+-
+ctime
+-
+
